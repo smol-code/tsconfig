@@ -1,0 +1,27 @@
+{
+  "private": false,
+  "name": "@smol-code/tsconfig",
+  "version": "1.0.0",
+  "description": "Typescript config for projects",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smol-code/tsconfig.git"
+  },
+  "author": "Jpuf0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smol-code/tsconfig/issues"
+  },
+  "homepage": "https://github.com/smol-code/tsconfig#readme",
+  "engines": {
+    "node": ">=15"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
